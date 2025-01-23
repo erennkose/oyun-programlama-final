@@ -16,5 +16,4 @@ Oyun Programlama Dersi Final Ödevimiz
 ## Referanslar
 - Asset1
 - Asset2
-- Asset3
 - ...
