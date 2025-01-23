@@ -23,10 +23,19 @@ Oyun Programlama Dersi Final Ödevimiz
 - Oynanış sahnelerinde Input.GetAxis(“Escape”) fonksiyonu ile girdi (input) tespit edilir ve bizi bu menü karşılar. Oyunu olduğu yerde dondurur. Tekrar ESC tuşuna basılınca oyun akmaya devam eder. Bu ekranda iken oyun hafif karaltılmış şekilde görülmeye devam eder. Ekranın tam ortasında bulunan Ana Menü tuşuna basılarak ana menüye geri dönülebilir.
 
 ### Animasyonlar
-- Animasyon
+- Oyunumuzdaki Player nesnemizde animasyonlar bulunmaktadır. Bulunan animasyonlar şu şekildedir; 
+ - 180 derece dönme animasyonu
+ - Yürüme animasyonu
+ - Saldırı animasyonu
+ - Idle (boşta durma) animasyonu
+ - Kaybetme animasyonu
+ - Kazanma animasyonu
+- Animasyonları kontrol etmek için “Animation Controller” kullanılmıştır.
+- Animasyonlu karakteriniz duruma (state) göre animasyonlar arasında geçiş yapmaktadır.
+- Devam ediyor olan animasyonlar döngü halinde oynamaktadır ve durum (state) değişimi gerçekleştiğinde eski animasyonun bitmesi beklenmeden sıradaki durumun animasyonuna geçiş hemen başlamaktadır. 
 
 ### Asenkronizasyon
-- Asenkronizasyon
+- Oyunumuza farklı bir sahne daha eklendi. Bu sahne oyunun tanıtımı tarzı bir sahnedir. Bu sahnede neler yapılması gerektiği öğrenilip kontroller denendikten sonra lolipopa vurulması sonucunda sonraki sahneye geçilebilir. Oyunumuzda sahneler arası geçişler, arayüzde ve oynanışta takılmalara sebep olmayacak şekilde ayarlanmıştır, sahneler asenkron bir şekilde yüklenmektedir. 
 
 ### Ses ve Müzik
 - Zıplama mantarında zıplanması halinde mantardan ses çıkar. Bu ses oyuncunun konumuna göre sağdan veya soldan duyulabilmektedir.
