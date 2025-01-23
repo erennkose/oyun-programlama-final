@@ -44,6 +44,6 @@ Oyun Programlama Dersi Final Ödevimiz
 - Her coin toplanmasında coinlerden ses çıkmaktadır.
 
 ## Referanslar
-- Asset1
+- Zıplama Mantarı Ses Asseti: https://pixabay.com/tr/sound-effects/funny-spring-229170/
 - Asset2
 - ...
