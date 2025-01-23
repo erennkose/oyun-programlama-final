@@ -3,6 +3,7 @@ Oyun Programlama Dersi Final Ödevimiz
 
 ## Oyun Bağlantısı
  -  https://erenkose75.itch.io/
+   
 ## Görev Paylaşım Tablosu
 | #      | Eren KÖSE - 22360859075                 | Eren GÜRELİ - 22360859016                 | Mustafa AYKUT - 22360859028                 |
 |--------|-----------------------------------------|-------------------------------------------|---------------------------------------------|
@@ -14,13 +15,24 @@ Oyun Programlama Dersi Final Ödevimiz
 | Toplam | (40x)                                   |  (40x)                                    | (40x)                                       |
 
 ## Yapılan Eklemeler
+
+### Ana Menü
+- Oyun açıldığında bizi karşılayan ekrandır. Bu ekranın sol üst köşesinde oyunun ilk bölümüne geçen, (yani oyunu başlatan) bir buton, oyunun kaynak kodlarının bulunduğu Github sayfamıza giden bir buton, ve oyundan çıkılmasını sağlayan bir buton bulunmaktadır. Ekranın sağ üst köşesinde ise oyunun logosu, sağ alt köşesinde ise oyunun ana sesinin (master volume) düzenlenmesini sağlayan bir slider bulunmaktadır.
+
+### Duraklama Menüsü
+- Oynanış sahnelerinde Input.GetAxis(“Escape”) fonksiyonu ile girdi (input) tespit edilir ve bizi bu menü karşılar. Oyunu olduğu yerde dondurur. Tekrar ESC tuşuna basılınca oyun akmaya devam eder. Bu ekranda iken oyun hafif karaltılmış şekilde görülmeye devam eder. Ekranın tam ortasında bulunan Ana Menü tuşuna basılarak ana menüye geri dönülebilir.
+
+### Animasyonlar
+- Animasyon
+
+### Asenkronizasyon
+- Asenkronizasyon
+
 ### Ses ve Müzik
 - Zıplama mantarında zıplanması halinde mantardan ses çıkar. Bu ses oyuncunun konumuna göre sağdan veya soldan duyulabilmektedir.
 - 50 coin toplanması sonucunda çift zıplamayı aktifleştiren tavşan zıplamaya başlar. Bu süreçte zıplarken ses de çıkarır. Bu sesi oyuncu sağdan veya soldan duyabilmektedir. Bu sayede oyuncu tavşanın nerede olduğunu duyabilir.
 - Etrafta kırmızı şekerler bulunmaktadır. Bu şekerlerin alınması sonucunda evren hızlanır. Karakterimiz hızlı hareket etmeye başlar. Aynı zamanda oyunu kazanma noktamız olan lolipoptan bir ses çıkmaya başlar. Bu sesi oyuncu sağdan veya soldan duyabilmektedir. Bu sayede lolipopun konumunu oyuncu anlayabilir.
 - Her coin toplanmasında coinlerden ses çıkmaktadır.
-### Ana Menü
-- Oyun açıldığında bizi karşılayan ekrandır. Bu ekranın sol üst köşesinde oyunun ilk bölümüne geçen, (yani oyunu başlatan) bir buton, oyunun kaynak kodlarının bulunduğu Github sayfamıza giden bir buton, ve oyundan çıkılmasını sağlayan bir buton bulunmaktadır. Ekranın sağ üst köşesinde ise oyunun logosu, sağ alt köşesinde ise oyunun ana sesinin (master volume) düzenlenmesini sağlayan bir slider bulunmaktadır.
 
 ## Referanslar
 - Asset1
