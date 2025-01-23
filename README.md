@@ -20,7 +20,7 @@ Oyun Programlama Dersi Final Ödevimiz
 - Etrafta kırmızı şekerler bulunmaktadır. Bu şekerlerin alınması sonucunda evren hızlanır. Karakterimiz hızlı hareket etmeye başlar. Aynı zamanda oyunu kazanma noktamız olan lolipoptan bir ses çıkmaya başlar. Bu sesi oyuncu sağdan veya soldan duyabilmektedir. Bu sayede lolipopun konumunu oyuncu anlayabilir.
 - Her coin toplanmasında coinlerden ses çıkmaktadır.
 ### Ana Menü
-- Oyun açıldığında bizi karşılayan ekrandır. Bu ekranın sol üst köşesinde oyunun ilk bölümüne geçen, yani oyunu başlatan bir buton; oyunun kaynak kodlarının bulunduğu Github sayfamıza giden bir buton, ve oyundan çıkılmasını sağlayan bir buton bulunmaktadır. Ekranın sağ üst köşesinde ise oyunun logosu, sağ alt köşesinde ise oyunun ana sesinin (master volume) düzenlenmesini sağlayan bir slider bulunmaktadır.
+- Oyun açıldığında bizi karşılayan ekrandır. Bu ekranın sol üst köşesinde oyunun ilk bölümüne geçen, (yani oyunu başlatan) bir buton, oyunun kaynak kodlarının bulunduğu Github sayfamıza giden bir buton, ve oyundan çıkılmasını sağlayan bir buton bulunmaktadır. Ekranın sağ üst köşesinde ise oyunun logosu, sağ alt köşesinde ise oyunun ana sesinin (master volume) düzenlenmesini sağlayan bir slider bulunmaktadır.
 
 ## Referanslar
 - Asset1
