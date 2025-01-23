@@ -24,12 +24,12 @@ Oyun Programlama Dersi Final Ödevimiz
 
 ### Animasyonlar
 - Oyunumuzdaki Player nesnemizde animasyonlar bulunmaktadır. Bulunan animasyonlar şu şekildedir; 
- - 180 derece dönme animasyonu
- - Yürüme animasyonu
- - Saldırı animasyonu
- - Idle (boşta durma) animasyonu
- - Kaybetme animasyonu
- - Kazanma animasyonu
+  - 180 derece dönme animasyonu
+  - Yürüme animasyonu
+  - Saldırı animasyonu
+  - Idle (boşta durma) animasyonu
+  - Kaybetme animasyonu
+  - Kazanma animasyonu
 - Animasyonları kontrol etmek için “Animation Controller” kullanılmıştır.
 - Animasyonlu karakteriniz duruma (state) göre animasyonlar arasında geçiş yapmaktadır.
 - Devam ediyor olan animasyonlar döngü halinde oynamaktadır ve durum (state) değişimi gerçekleştiğinde eski animasyonun bitmesi beklenmeden sıradaki durumun animasyonuna geçiş hemen başlamaktadır. 
