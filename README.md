@@ -45,5 +45,6 @@ Oyun Programlama Dersi Final Ödevimiz
 
 ## Referanslar
 - Zıplama Mantarı Ses Asseti: https://pixabay.com/tr/sound-effects/funny-spring-229170/
-- Asset2
-- ...
+- Tavşan Zıplama Ses Asseti: https://poppop.ai/sound-effects/jump-sound (İlk ses)
+- Lolipop (Bitiş Noktası) Parlama Ses Asseti: https://pixabay.com/sound-effects/fx-light-90387/
+- Arka Plan Ses Asseti: www.placeholder.com
