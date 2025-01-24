@@ -24,7 +24,6 @@ Oyun Programlama Dersi Final Ödevimiz
 
 ### Animasyonlar
 - Oyunumuzdaki Player nesnemizde animasyonlar bulunmaktadır. Bulunan animasyonlar şu şekildedir; 
-  - 180 derece dönme animasyonu
   - Yürüme animasyonu
   - Saldırı animasyonu
   - Idle (boşta durma) animasyonu
