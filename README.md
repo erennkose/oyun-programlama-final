@@ -52,3 +52,4 @@ Oyun Programlama Dersi Final Ödevimiz
 - Tavşan Zıplama Ses Asseti: https://poppop.ai/sound-effects/jump-sound (Linkteki ilk ses)
 - Lolipop (Bitiş Noktası) Parlama Ses Asseti: https://pixabay.com/sound-effects/fx-light-90387/
 - Arka Plan Ses Asseti: https://github.com/erennkose/oyun-programlama-final
+- Karakter Animasyonları Asseti: https://kaylousberg.itch.io/kaykit-adventurers
