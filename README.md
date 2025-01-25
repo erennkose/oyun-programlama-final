@@ -18,7 +18,7 @@ Oyun Programlama Dersi Final Ödevimiz
 
 ### Ana Menü
 - Oyun açıldığında bizi karşılayan ekrandır. Bu ekranın sol üst köşesinde oyunun ilk bölümüne geçen, (yani oyunu başlatan) bir buton, oyunun kaynak kodlarının bulunduğu Github sayfamıza giden bir buton, ve oyundan çıkılmasını sağlayan bir buton bulunmaktadır. Ekranın sağ üst köşesinde ise oyunun logosu, sağ alt köşesinde ise oyunun ana sesinin (master volume) düzenlenmesini sağlayan bir slider bulunmaktadır.
-![Ana Menü](readme-pics/mainMenu.png)
+![Ana Menü](readme-pics/main-menu.png)
 
 ### Duraklama Menüsü
 - Oynanış sahnelerinde Input.GetAxis(“Escape”) fonksiyonu ile girdi (input) tespit edilir ve bizi bu menü karşılar. Oyunu olduğu yerde dondurur. Tekrar ESC tuşuna basılınca oyun akmaya devam eder. Bu ekranda iken oyun hafif karaltılmış şekilde görülmeye devam eder. Ekranın tam ortasında bulunan Ana Menü tuşuna basılarak ana menüye geri dönülebilir.
