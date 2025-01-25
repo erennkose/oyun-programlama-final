@@ -32,8 +32,8 @@ Oyun Programlama Dersi Final Ödevimiz
   - Idle (boşta durma) animasyonu
   - Hasar alma animasyonu
 - Animasyonları kontrol etmek için “Animation Controller” kullanılmıştır.
-- Animasyonlu karakteriniz duruma (state) göre animasyonlar arasında geçiş yapmaktadır.
-- Devam ediyor olan animasyonlar döngü halinde oynamaktadır ve durum (state) değişimi gerçekleştiğinde eski animasyonun bitmesi beklenmeden sıradaki durumun animasyonuna geçiş hemen başlamaktadır. 
+- Animasyonlu karakterimiz duruma (state) göre animasyonlar arasında geçiş yapmaktadır.
+- Devam ediyor olan animasyonlar döngü halinde oynamaktadır ve durum (state) değişimi gerçekleştiğinde eski animasyonun bitmesi beklenmeden sıradaki durumun animasyonuna geçiş hemen başlamaktadır.
 
 ### Asenkronizasyon
 - Oyunumuza farklı bir sahne daha eklendi. Bu sahne oyunun tanıtımı tarzı bir sahnedir. Bu sahnede neler yapılması gerektiği öğrenilip kontroller denendikten sonra lolipopa dokunulması sonucunda sonraki sahneye geçilebilir. Oyunumuzda sahneler arası geçişler, arayüzde ve oynanışta takılmalara sebep olmayacak şekilde ayarlanmıştır, sahneler asenkron bir şekilde yüklenmektedir. 
