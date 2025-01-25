@@ -21,7 +21,7 @@ Oyun Programlama Dersi Final Ödevimiz
 ![Ana Menü](readme-pics/main-menu.png)
 
 ### Duraklama Menüsü
-- Oynanış sahnelerinde Input.GetAxis(“Escape”) fonksiyonu ile girdi (input) tespit edilir ve bizi bu menü karşılar. Oyunu olduğu yerde dondurur. Tekrar ESC tuşuna basılınca oyun akmaya devam eder. Bu ekranda iken oyun hafif karaltılmış şekilde görülmeye devam eder. Ekranın tam ortasında bulunan Ana Menü tuşuna basılarak ana menüye geri dönülebilir.
+- Oynanış sahnelerinde Input.GetAxis(“Escape”) fonksiyonu ile girdi (input) tespit edilir ve bizi bu menü karşılar. Oyunu olduğu yerde dondurur. Tekrar ESC tuşuna basılınca oyun akmaya devam eder. Bu ekranda iken oyun hafif karaltılmış şekilde görülmeye devam eder. Ekranın tam ortasında bulunan Ana Menü tuşuna basılarak ana menüye geri dönülebilir. Ayrıca Yeniden Başla tuşuna basılarak da bölüme yeniden başlanabilir.
 ![Duraklama Menüsü](readme-pics/esc-menu.png)
 
 ### Animasyonlar
@@ -38,7 +38,7 @@ Oyun Programlama Dersi Final Ödevimiz
 - Devam ediyor olan animasyonlar döngü halinde oynamaktadır ve durum (state) değişimi gerçekleştiğinde eski animasyonun bitmesi beklenmeden sıradaki durumun animasyonuna geçiş hemen başlamaktadır.
 
 ### Asenkronizasyon
-- Oyunumuza farklı bir sahne daha eklendi. Bu sahne oyunun tanıtımı tarzı bir sahnedir. Bu sahnede neler yapılması gerektiği öğrenilip kontroller denendikten sonra lolipopa dokunulması sonucunda sonraki sahneye geçilebilir. Oyunumuzda sahneler arası geçişler, arayüzde ve oynanışta takılmalara sebep olmayacak şekilde ayarlanmıştır, sahneler asenkron bir şekilde yüklenmektedir.
+- Oyunumuza farklı bir sahne daha eklendi. Bu sahne oyunun tanıtımı tarzı bir sahnedir. Bu sahnede neler yapılması gerektiği öğrenilip kontroller denendikten sonra lolipopa dokunulması sonucunda sonraki sahneye geçilebilir. Oyunumuzda sahneler arası geçişler, arayüzde ve oynanışta takılmalara sebep olmayacak şekilde ayarlanmıştır, sahneler asenkron bir şekilde yüklenmektedir. İstenmesi durumunda sağ üstteki Tutoriali Atla butonuna tıklanarak Tutorial bölümü atlanabilir.
 ![Tutorial Bölümü](readme-pics/tutorial.png)
 
 ### Ses ve Müzik
@@ -52,3 +52,4 @@ Oyun Programlama Dersi Final Ödevimiz
 - Tavşan Zıplama Ses Asseti: https://poppop.ai/sound-effects/jump-sound (Linkteki ilk ses)
 - Lolipop (Bitiş Noktası) Parlama Ses Asseti: https://pixabay.com/sound-effects/fx-light-90387/
 - Arka Plan Ses Asseti: https://github.com/erennkose/oyun-programlama-final
+- Karakter Animasyonları Asseti: https://kaylousberg.itch.io/kaykit-adventurers
