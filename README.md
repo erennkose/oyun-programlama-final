@@ -2,7 +2,7 @@
 Oyun Programlama Dersi Final Ödevimiz
 
 ## Oyun Bağlantısı
- -  https://erenkose75.itch.io/
+ -  https://erenkose75.itch.io/the-coin-crusade
    
 ## Görev Paylaşım Tablosu
 | #      | Eren KÖSE - 22360859075                 | Eren GÜRELİ - 22360859016                 | Mustafa AYKUT - 22360859028                 |
