@@ -25,7 +25,9 @@ Oyun Programlama Dersi Final Ödevimiz
 ### Animasyonlar
 - Oyunumuzdaki Player nesnemizde animasyonlar bulunmaktadır. Bulunan animasyonlar şu şekildedir; 
   - Koşma animasyonu
-  - Zıplama animasyonu
+  - Zıplamaya başlama animasyonu
+  - Zıplama sonrasında havada durma animasyonu
+  - Zıplama sonrasında yere düşme animasyonu
   - Saldırı animasyonu
   - Idle (boşta durma) animasyonu
   - Hasar alma animasyonu
