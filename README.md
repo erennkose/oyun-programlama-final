@@ -21,7 +21,7 @@ Oyun Programlama Dersi Final Ödevimiz
 ![Ana Menü](readme-pics/main-menu.png)
 
 ### Duraklama Menüsü
-- Oynanış sahnelerinde Input.GetAxis(“Escape”) fonksiyonu ile girdi (input) tespit edilir ve bizi bu menü karşılar. Oyunu olduğu yerde dondurur. Tekrar ESC tuşuna basılınca oyun akmaya devam eder. Bu ekranda iken oyun hafif karaltılmış şekilde görülmeye devam eder. Ekranın tam ortasında bulunan Ana Menü tuşuna basılarak ana menüye geri dönülebilir.
+- Oynanış sahnelerinde Input.GetAxis(“Escape”) fonksiyonu ile girdi (input) tespit edilir ve bizi bu menü karşılar. Oyunu olduğu yerde dondurur. Tekrar ESC tuşuna basılınca oyun akmaya devam eder. Bu ekranda iken oyun hafif karaltılmış şekilde görülmeye devam eder. Ekranın tam ortasında bulunan Ana Menü tuşuna basılarak ana menüye geri dönülebilir. Ayrıca Yeniden Başla tuşuna basılarak da bölüme yeniden başlanabilir.
 ![Duraklama Menüsü](readme-pics/esc-menu.png)
 
 ### Animasyonlar
