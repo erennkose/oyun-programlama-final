@@ -47,9 +47,23 @@ Oyun Programlama Dersi Final Ödevimiz
 - Etrafta kırmızı şekerler bulunmaktadır. Bu şekerlerin alınması sonucunda evren hızlanır. Karakterimiz hızlı hareket etmeye başlar. Aynı zamanda oyunu kazanma noktamız olan lolipoptan bir ses çıkmaya başlar. Bu sesi oyuncu sağdan veya soldan duyabilmektedir. Bu sayede lolipopun konumunu oyuncu anlayabilir.
 - Her coin toplanmasında coinlerden ses çıkmaktadır.
 
+## Oynanış
+* **Hareket**: Karakterinizi A,D veya yön tuşlarıyla sağa sola hareket ettirin.
+* **Zıplama**: Yüksek yerlere çıkmak ya da engelleri aşmak için Boşluk (Space) tuşuna basın. Ayrıca bazı yerlerde bulunan yeşil mantarlarla kendinizi daha yükseğe fırlatın!
+* **Saldırı**: Düşmanları yenmek için Sol Tık (Mouse Left Click) ile saldırı yapın.
+* **Düşmanlara Dikkat**: Yol boyunca sizi engellemek için yerleştirilmiş düşmanlar olacak. Düşmanlardan kaçınmak için dikkatli bir şekilde hareket edin ve gerektiğinde sol clickle düşmanı etkisiz hale getirin!
+* **Bonuslar**: Önünüze çıkan şeker (Belli bir süre boyunca hızı arttırır), tavşan (Çift zıplama özelliğini aktive eder), burger (Canınızı 1 arttırır) gibi bonuslarla güçlenin!
+* **Altın Toplama**: 50 adet altına ulaştıktan sonra haritada bulunan tavşanı bulun ve çift zıplamanın tadını çıkarın! Unutmayın haritanın her yerine altınlar saçılmış halde!
+* **Bitiş**: Lolipopa ulaşıp oyunu kazanın!
+
 ## Referanslar
 - Zıplama Mantarı Ses Asseti: https://pixabay.com/tr/sound-effects/funny-spring-229170/
 - Tavşan Zıplama Ses Asseti: https://poppop.ai/sound-effects/jump-sound (Linkteki ilk ses)
 - Lolipop (Bitiş Noktası) Parlama Ses Asseti: https://pixabay.com/sound-effects/fx-light-90387/
 - Arka Plan Ses Asseti: https://github.com/erennkose/oyun-programlama-final
 - Karakter Animasyonları Asseti: https://kaylousberg.itch.io/kaykit-adventurers
+- Çevre Assetleri: https://fertile-soil-productions.itch.io/modular-platformer
+- Karakter Assetleri: https://kaylousberg.itch.io/kaykit-adventurers
+- Burger Assetleri: https://www.fab.com/listings/e4579c6c-2e83-460e-8295-621c843852d5
+- Şeker Asseti: https://sketchfab.com/3d-models/cute-candy-f6e5e6e53988414185ca010572a54563
+- Tavşan Asseti: https://assetstore.unity.com/packages/3d/characters/animals/white-rabbit-138709
